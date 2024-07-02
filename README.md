@@ -1,12 +1,14 @@
 # ToDoList
 
+<br>
+
 ## About:
-### To-Do list application
+#### To-Do list application
 
 <br>
 
 ## How:
-### Made with flutter
+#### Made with flutter
 
 <br>
 
